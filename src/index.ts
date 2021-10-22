@@ -22,3 +22,15 @@ for (let indice: number = 1; indice <= 100; indice++) {
 console.log("cuenta");*/
 
 //3
+
+/*let ningresado = Number(prompt("ingresar numero"));
+while (ningresado <= 0) {
+  let ningresado = Number(prompt("ingresar otro numero"));
+}
+if (ningresado % 2 == 0) {
+  console.log("el numero es par");
+} else {
+  console.log("el numero no es par");
+}*/
+
+//4
